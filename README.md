@@ -15,7 +15,7 @@
 
 # 📖 About
 
-Ig.news is an exciting platform for sharing news about the React.js world. This project was the third module app from the Ignite Bootcamp[https://rocketseat.com.br/ignite].
+Ig.news is an exciting platform for sharing news about the React.js world. This project was the third module app from the [Ignite Bootcamp](https://rocketseat.com.br/ignite).
 
 # 📐 Layout
 
