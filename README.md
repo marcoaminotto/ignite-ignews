@@ -13,11 +13,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-61dafb">
 </p>
 
-# 📖 About
+## 📖 About
 
 Ig.news is an exciting platform for sharing news about the React.js world. This project was the third module app from the [Ignite Bootcamp](https://rocketseat.com.br/ignite).
 
-# 📐 Layout
+## 📐 Layout
 
 <div align="center">
   <img src="./.github/ignews-home.gif" width="600px" alt="Demonstration of the app">
@@ -30,7 +30,7 @@ Ig.news is an exciting platform for sharing news about the React.js world. This 
 - SCSS
 - HTML
 
-# 🔧 How to run
+## 🔧 How to run
 
 - Download this project to your computer or use the git command `git clone git@github.com:marcoaminotto/ignite-ignews.git`
 - Open the folder in your system's shell
@@ -46,7 +46,7 @@ Ig.news is an exciting platform for sharing news about the React.js world. This 
 - Open the folder in another terminal tab
 - Run `$ yarn dev`
 
-# :closed_book: License
+## :closed_book: License
 
 Released in 2021 :closed_book: License
 
