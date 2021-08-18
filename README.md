@@ -1,34 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">ig.news</h1>
+    
+<p align="center">	
+  <a href="https://www.linkedin.com/in/marco-echevestre/">
+      <img alt="Marco Echevestre" src="https://img.shields.io/badge/-Marco Echevestre-61dafb?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcoaminotto/ignite-ignews?color=61dafb">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/marcoaminotto/ignite-ignews?color=61dafb">
+  <a href="https://github.com/marcoaminotto/ignite-ignews/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcoaminotto/ignite-ignews?color=61dafb">
+  </a> 
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/marcoaminotto/ignite-ignews/total?logo=GitHub&style=flat&color=61dafb">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-61dafb">
+</p>
 
-## Getting Started
+# 📖 About
 
-First, run the development server:
+Ig.news is an exciting platform for sharing news about the React.js world. This project was the third module app from the Ignite Bootcamp[https://rocketseat.com.br/ignite].
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# 📐 Layout
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+  <img src="./.github/ignews-home.gif" width="600px" alt="Demonstration of the app">
+</div>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### 🚀 Tecnologies
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Next.js
+- Typescript
+- SCSS
+- HTML
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# 🔧 How to run
 
-## Learn More
+- Download this project to your computer or use the git command `git clone git@github.com:marcoaminotto/ignite-ignews.git`
+- Open the folder in your system's shell
+- Run `$ yarn install` to install the project's modules
 
-To learn more about Next.js, take a look at the following resources:
+### Server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Open the folder in a terminal tab
+- Run `$ yarn server`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Webpage
 
-## Deploy on Vercel
+- Open the folder in another terminal tab
+- Run `$ yarn dev`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# :closed_book: License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Released in 2021 :closed_book: License
+
+This project is under the [MIT license](./LICENSE).
+
+Give a ⭐️ if this project helped you!
+
+#
+
+<p align="center">
+   <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
+</p>
